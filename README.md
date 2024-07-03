@@ -13,5 +13,5 @@ To start client `npm run start:client`
 
 Good luck!
 
-P.S. If you copy prepared `cert` folder to the [Go version of GRPC server-client](https://github.com/dioxine/gogrpcpeer) and use same `.proto` file(s)
+P.S. If you copy prepared `cert` folder to the [Go version of GRPC server-client](https://github.com/dioxine/gogrpcpeer) and use same `.proto` file
 it will work with Go as server and TypeScript as client or visa-versa.
